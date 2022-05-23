@@ -1,0 +1,1 @@
+I plan on using this repl as my main economics simulator project. I have been planning this for a while and I am finally trying to do it. This will take quite a while to finish and I don't plan on it being very good at first.
